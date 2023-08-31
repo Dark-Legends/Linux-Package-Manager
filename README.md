@@ -23,7 +23,7 @@ sudo apt-get install git -y
 ```
 
 ```bash
-git clone https://github.com/Dark-Legends/Linux-Package-Manger.git
+git clone https://github.com/Dark-Legends/Linux-Package-Manger
 ```
 
 ```bash
@@ -44,7 +44,7 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```bash
-git clone https://github.com/Dark-Legends/Linux-Package-Manger.git
+git clone https://github.com/Dark-Legends/Linux-Package-Manger
 ```
 ```bash
 cd Linux-Package-Manger
