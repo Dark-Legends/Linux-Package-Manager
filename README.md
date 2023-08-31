@@ -4,11 +4,11 @@ it has a 91 packages to install and use the work on ubuntu and termux and kali .
 
 # This Tool tested on
 
-Kali linux 
+- Kali linux 
 
-ubuntu linux
+- ubuntu linux
 
-Termux
+- Termux
 
 # Installion on ubuntu and kali
 ```bash
