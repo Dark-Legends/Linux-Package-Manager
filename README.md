@@ -36,6 +36,20 @@ chmod +x install.sh
 ```bash
 ./install.sh
 ```
+
+
+
+# To Uninstall Packages 
+
+```bash
+chmod +x uninstall.sh
+```
+
+```bash
+./uninstall.sh
+```
+
+
 # Installion On Termux 
 ```bash
 apt update && apt upgrade -y
@@ -55,3 +69,16 @@ chmod +x install.sh
 ```bash
 ./install.sh
 ```
+
+
+# To Uninstall Packages 
+
+```bash
+chmod +x uninstall.sh
+```
+
+```bash
+./uninstall.sh
+```
+
+
