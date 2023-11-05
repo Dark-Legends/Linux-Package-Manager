@@ -1,5 +1,4 @@
 #!/bin/bash
-
 R="\033[1;31m"
 G="\033[1;32m"
 Y="\033[1;33m"
@@ -8,11 +7,6 @@ PI="\033[1;35m"
 B="\033[1;36m"
 W="\033[1;37m"
 X="\033[4m"
-
-
-
-
-
 # Function to install packages
 install_package() {
     echo -e  "${G}Installing $1..."
@@ -64,7 +58,6 @@ for ((i=1; i<=3; i++))
 do
 echo
 done
-
 	echo -e "\033[1;32m"
 
 echo -e "\t⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿"
@@ -111,28 +104,17 @@ do
 echo
 done
 
-echo -e "\t${Y}1.  ${G}Python"
-echo
-echo -e "\t${Y}2.  ${G}Python2"
-echo
-echo -e "\t${Y}3.  ${G}Python3"
-echo
-echo -e	"\t${Y}4.  ${G}PHP"
-echo
-echo -e	"\t${Y}5.  ${G}Ruby"
-echo
-echo -e "\t${Y}6.  ${G}Perl"
-echo
-echo -e "\t${Y}7.  ${G}Go"
-echo
-echo -e "\t${Y}8.  ${G}Figlet"
-echo
-echo -e "\t${Y}9.  ${G}Git"
-echo
-echo -e "\t${Y}10. ${G}Nano"
-echo
-echo -e "\t${Y}11. ${G}Lolcat"
-echo
+echo -e "\t${Y}1.  ${G}Python\n"
+echo -e "\t${Y}2.  ${G}Python2\n"
+echo -e "\t${Y}3.  ${G}Python3\n"
+echo -e	"\t${Y}4.  ${G}PHP\n"
+echo -e	"\t${Y}5.  ${G}Ruby\n"
+echo -e "\t${Y}6.  ${G}Perl\n"
+echo -e "\t${Y}7.  ${G}Go\n"
+echo -e "\t${Y}8.  ${G}Figlet\n"
+echo -e "\t${Y}9.  ${G}Git\n"
+echo -e "\t${Y}10. ${G}Nano\n"
+echo -e "\t${Y}11. ${G}Lolcat\n" 
 echo -e "\t${Y}12. ${G}SSh "
 echo
 echo -e "\t${Y}13. ${G}Wget "
