@@ -80,5 +80,7 @@ chmod +x uninstall.sh
 ```bash
 ./uninstall.sh
 ```
+<h3><b><i>📡 Connect with us :</i></b></h3>
 
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://t.me/CyberDarkLegends)
 
