@@ -63,7 +63,7 @@ do
 echo
 done
 Banner
-echo -e "\t⭕ ${Purple}This Script will uninstall Package in linux distro ⭕\n\n"
+echo -e "\t⭕ ${Purple}This Script will uninstall Package in Linux Package Manager ⭕\n\n"
 echo -e "\t\t\t${PI}Code ${W}By ${B}Manjunath\n\n"
 echo -e "\t${Y}1.  ${G}Python\n"
 echo -e "\t${Y}2.  ${G}Python2\n"
