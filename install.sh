@@ -81,12 +81,10 @@ do
 echo
 done
 
-	echo -e "\t ${R}WELCOME TO LINUX PACKAGE MANGER"
-for ((i=1; i<=5; i++))
-do
+	echo -e "\t ${R}WELCOME TO LINUX PACKAGE MANAGER"
+for ((i=1; i<=5; i++)) do
 echo
 done
-
 
 echo -e "\t${R}Boss ${PI}Select ${B}'Tool' ${W}To ${G}Install"
 
@@ -95,7 +93,7 @@ do
 echo
 done
 
-	echo -e "\t${Y}CODE ${W}BY ${R}ETHICAL ${G}HACKER ${B}MANJUNATH"
+	echo -e "\t${Y}CODE ${W}BY ${B}MANJUNATH"
 
 for ((i=1; i<=5; i++))
 do
