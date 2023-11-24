@@ -50,7 +50,7 @@ chmod +x uninstall.sh
 ./uninstall.sh
 ```
 
-## Installation [Android Termux](https://wikipedia.org/wiki/Android) [![alt tag]
+## Installation [ Android,Termux ](https://wikipedia.org/wiki/Android) [![alt tag]
 (https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
 
 ```bash
