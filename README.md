@@ -10,7 +10,7 @@ it has a 91 packages to install and use the work on ubuntu and termux and kali .
 
 - Termux
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+## Installation [Linux, Like Ubuntu, Kali, Debian ](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 ```bash
 sudo apt-get update
 ```
